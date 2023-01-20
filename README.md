@@ -7,6 +7,9 @@ My name is Magdalena Sawińska. I am a mother returning to work after accompanyi
 * Visual Studio Code
 * Greenshot
 * DevTools
+* XAMPP
+* phpMyAdmin
+* Postman
 ## Tech skills
 * Creating test cases
 * Performing functional testing
@@ -16,10 +19,13 @@ My name is Magdalena Sawińska. I am a mother returning to work after accompanyi
 ## Courses, Webinars and Meetups
 * [Destination IT](https://mamopracuj.pl/destination-it-twoja-trampolina-do-nowej-sciezki-kariery-ruszaja-zapisy/) mentoring program - Testing Automation path
 * [DareIT Challenge](https://www.dareit.io/) - ongoing participation
+* [Agile with Atlassian Jira](https://www.coursera.org/learn/agile-atlassian-jira/home/week/1) - completed November 2022
+* [Start Your API Testing Journey With Postman Tool](https://www.coursera.org/projects/start-your-api-testing-journey-with-postman-tool) - January 2023
+* [English for IT](https://eklektika.pl/kursy-angielskiego/specjalistyczne/dla-it/) - January 2023
+* [Create Your First Automation Script Using Selenium and Java](https://www.coursera.org/projects/create-automation-script-using-selenium-java) - January 2023
 * [Praktyczny Python](https://praktycznypython.pl/) by Krzysztof Mędrela - ongoing learning
 * [WarsawQA](https://www.meetup.com/en-AU/warszawqa/events/289709117/) MeetUp #38 Performance Tests & QA Tools
 * [Kurs MySQL. Bazy danych, język zapytań SQL](https://miroslawzelent.pl/kurs-mysql/) by Mirosław Zelent
-* [Agile with Atlassian Jira](https://www.coursera.org/learn/agile-atlassian-jira/home/week/1) - completed November 2022
 ## Tech books
 * "Zawód tester" Radosław Smilgin
 ## Tech blogs
