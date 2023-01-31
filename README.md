@@ -1,6 +1,14 @@
 # Portfolio
 ## About me
 My name is Magdalena Sawińska. I am a mother returning to work after accompanying children in their home-school education. I’ve been continuously exposed to the world of software and coding through proximity to people working in this field hence I decided to enter the path that always seemed so tempting and interesting to me. I believe that work within testing area will allow me to expand my horizons while still tap into my personal traits and strengths. 
+## Certificates
+* [Agile with Atlassian Jira](https://drive.google.com/file/d/1igdBb5-X0ZqvnDxEHWgA67m41-fnxIXf/view?usp=sharing)
+* [Start Your API Testing Journey With Postman Tool](https://drive.google.com/file/d/1lvPYcoFDnex3jL7c7S_o0xvqk8-w-RlT/view?usp=sharing)
+* [Introduction to Python](https://drive.google.com/file/d/1A2vf_jty7nK0uzNogSAj-_IfZb9HOGq4/view?usp=sharing)
+* [Create Your First Automation Script Using Selenium and Java](https://drive.google.com/file/d/1c8MCZ_GIAuBxkTzugLbURa8n0oOSyW0j/view?usp=sharing)
+* [Master XPath, Css Selector, and Other Locators in Selenium](https://drive.google.com/file/d/1Nat5sRFwFYOVguF1s-grI50v4-SEDfFo/view?usp=sharing)
+* [Automate an e-commerce web application using Selenium & Java](https://drive.google.com/file/d/1oHmldqLraqi184PFzPL8fG9nQ5jgIXUV/view?usp=sharing)
+* [English for IT](https://drive.google.com/file/d/1Ds0gbHk5OVXdjICFV7_MvdmA6Dhi3BKO/view?usp=sharing)
 ## Tools
 * Jira
 * Trello
