@@ -1,7 +1,7 @@
 # Portfolio
-## About me
+## :woman: About me :woman:
 My name is Magdalena Sawińska. I am a mother returning to work after accompanying children in their home-school education. I’ve been continuously exposed to the world of software and coding through proximity to people working in this field hence I decided to enter the path that always seemed so tempting and interesting to me. I believe that work within testing area will allow me to expand my horizons while still tap into my personal traits and strengths. 
-## Certificates
+## :memo: Certificates :memo:
 * [Agile with Atlassian Jira](https://drive.google.com/file/d/1igdBb5-X0ZqvnDxEHWgA67m41-fnxIXf/view?usp=sharing)
 * [Start Your API Testing Journey With Postman Tool](https://drive.google.com/file/d/1lvPYcoFDnex3jL7c7S_o0xvqk8-w-RlT/view?usp=sharing)
 * [Introduction to Python](https://drive.google.com/file/d/1A2vf_jty7nK0uzNogSAj-_IfZb9HOGq4/view?usp=sharing)
@@ -9,7 +9,7 @@ My name is Magdalena Sawińska. I am a mother returning to work after accompanyi
 * [Master XPath, Css Selector, and Other Locators in Selenium](https://drive.google.com/file/d/1Nat5sRFwFYOVguF1s-grI50v4-SEDfFo/view?usp=sharing)
 * [Automate an e-commerce web application using Selenium & Java](https://drive.google.com/file/d/1oHmldqLraqi184PFzPL8fG9nQ5jgIXUV/view?usp=sharing)
 * [English for IT](https://drive.google.com/file/d/1Ds0gbHk5OVXdjICFV7_MvdmA6Dhi3BKO/view?usp=sharing)
-## Tools
+## :computer: Tools :computer:
 * Jira
 * Trello
 * Visual Studio Code
@@ -34,7 +34,7 @@ My name is Magdalena Sawińska. I am a mother returning to work after accompanyi
 * [Praktyczny Python](https://praktycznypython.pl/) by Krzysztof Mędrela - ongoing learning
 * [WarsawQA](https://www.meetup.com/en-AU/warszawqa/events/289709117/) MeetUp #38 Performance Tests & QA Tools
 * [Kurs MySQL. Bazy danych, język zapytań SQL](https://miroslawzelent.pl/kurs-mysql/) by Mirosław Zelent
-## Tech books
+## :books: Tech books :books:
 * "Zawód tester" Radosław Smilgin
 ## Tech blogs
 * [testerzy.pl](https://testerzy.pl/)
@@ -48,3 +48,4 @@ My name is Magdalena Sawińska. I am a mother returning to work after accompanyi
 * Dare IT Community
 * Python Poland
 ## My projects
+\1. [Pharmacy: Test Cases (scripted scenario, unscripted scenario, Gherkin syntax)](https://docs.google.com/spreadsheets/d/1hRnlx2nD_rnfhXbjSOuG5mtgHjtqAFkvvu_GDh6Vwhw/edit?usp=sharing)
