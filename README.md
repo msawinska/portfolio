@@ -48,4 +48,4 @@ My name is Magdalena Sawińska. I am a mother returning to work after accompanyi
 * Dare IT Community
 * Python Poland
 ## My projects
-\1. [Pharmacy: Test Cases (scripted scenario, unscripted scenario, Gherkin syntax)](https://docs.google.com/spreadsheets/d/1hRnlx2nD_rnfhXbjSOuG5mtgHjtqAFkvvu_GDh6Vwhw/edit?usp=sharing)
+1. [Pharmacy: Test Cases (scripted scenario, unscripted scenario, Gherkin syntax)](https://docs.google.com/spreadsheets/d/1hRnlx2nD_rnfhXbjSOuG5mtgHjtqAFkvvu_GDh6Vwhw/edit?usp=sharing)
