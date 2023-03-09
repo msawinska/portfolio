@@ -13,11 +13,13 @@ My name is Magdalena Sawińska. I am a mother returning to work after accompanyi
 * Jira
 * Trello
 * Visual Studio Code
+* Eclipse
 * Greenshot
 * DevTools
 * XAMPP
 * phpMyAdmin
 * Postman
+* Selenium
 ## Tech skills
 * Creating test cases
 * Performing functional testing
