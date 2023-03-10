@@ -56,8 +56,9 @@ My name is Magdalena Sawińska. I am a mother returning to work after accompanyi
 * [unscripted scenario](https://docs.google.com/spreadsheets/d/1hRnlx2nD_rnfhXbjSOuG5mtgHjtqAFkvvu_GDh6Vwhw/edit#gid=2010304708), 
 * [Gherkin syntax](https://docs.google.com/spreadsheets/d/1hRnlx2nD_rnfhXbjSOuG5mtgHjtqAFkvvu_GDh6Vwhw/edit#gid=184594048)
 * [User stories examples](https://docs.google.com/document/d/16KlCVo_kK4Dr-o6nwr_lerC5AHS-XGpbR7NPBQ2CTQ4/edit)
-2. [Java programming tasks](https://drive.google.com/drive/u/0/folders/1Jtp1e_OstMH8_Kr3vEiwswiMgsonkkzc)
-3. [Selenium with Java](https://github.com/msawinska/SeleniumWebdriver/blob/main/src/main/java/WebDriverTest/Main.java)
-4. [DareIt Challenge Portfolio](https://github.com/msawinska/challenge_portfolio_magdalena)
-5. [SQL tasks](https://github.com/msawinska/challenge_portfolio_magdalena#computer-task-5-computer-sql-part-1)
+2. [Test Report](https://github.com/msawinska/challenge_portfolio_magdalena#computer-task-5-computer-sql-part-1)
+3. [Java programming tasks](https://drive.google.com/drive/u/0/folders/1Jtp1e_OstMH8_Kr3vEiwswiMgsonkkzc)
+4. [Selenium with Java](https://github.com/msawinska/SeleniumWebdriver/blob/main/src/main/java/WebDriverTest/Main.java)
+5. [DareIt Challenge Portfolio](https://github.com/msawinska/challenge_portfolio_magdalena)
+6. [SQL tasks](https://github.com/msawinska/challenge_portfolio_magdalena#computer-task-5-computer-sql-part-1)
 
