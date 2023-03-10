@@ -59,4 +59,5 @@ My name is Magdalena Sawińska. I am a mother returning to work after accompanyi
 2. [Java programming tasks](https://drive.google.com/drive/u/0/folders/1Jtp1e_OstMH8_Kr3vEiwswiMgsonkkzc)
 3. [Selenium with Java](https://github.com/msawinska/SeleniumWebdriver/blob/main/src/main/java/WebDriverTest/Main.java)
 4. [DareIt Challenge Portfolio](https://github.com/msawinska/challenge_portfolio_magdalena)
+5. [SQL tasks](https://github.com/msawinska/challenge_portfolio_magdalena#computer-task-5-computer-sql-part-1)
 
