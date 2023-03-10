@@ -57,7 +57,7 @@ My name is Magdalena Sawińska. I am a mother returning to work after accompanyi
 * [Gherkin syntax](https://docs.google.com/spreadsheets/d/1hRnlx2nD_rnfhXbjSOuG5mtgHjtqAFkvvu_GDh6Vwhw/edit#gid=184594048)
 * [User stories examples](https://docs.google.com/document/d/16KlCVo_kK4Dr-o6nwr_lerC5AHS-XGpbR7NPBQ2CTQ4/edit)
 2. [Test Report](https://docs.google.com/spreadsheets/d/1p1exlfE12LnTY-XZhSUsZyc0gE-eknjC0SJ21JXYtVM/edit#gid=0)
-3. [Java programming tasks](https://drive.google.com/drive/u/0/folders/1Jtp1e_OstMH8_Kr3vEiwswiMgsonkkzc)
+3. [Java programming tasks](https://drive.google.com/file/d/1pH_RHfMfklkkAzuAkJs_Jbc6F83xY8d0/view?usp=share_link)
 4. [Selenium with Java](https://github.com/msawinska/SeleniumWebdriver/blob/main/src/main/java/WebDriverTest/Main.java)
 5. [DareIt Challenge Portfolio](https://github.com/msawinska/challenge_portfolio_magdalena)
 6. [SQL tasks](https://github.com/msawinska/challenge_portfolio_magdalena#computer-task-5-computer-sql-part-1)
