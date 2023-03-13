@@ -26,6 +26,15 @@ My name is Magdalena Sawińska. I am a mother returning to work after accompanyi
 * Reporting bugs
 * Python - basic programming skills
 * SQL basics
+* Gherkin syntax
+## Soft skills
+* Patience
+* Empathy
+* Communication
+* Accuracy
+* Problem solving
+* Engagement
+* Self-organisation
 ## Courses, Webinars and Meetups
 * [Destination IT](https://mamopracuj.pl/destination-it-twoja-trampolina-do-nowej-sciezki-kariery-ruszaja-zapisy/) mentoring program - Testing Automation path
 * [DareIT Challenge](https://www.dareit.io/) - ongoing participation
